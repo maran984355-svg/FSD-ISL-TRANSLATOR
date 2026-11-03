@@ -1,0 +1,4233 @@
+{
+  "version": "3.0.0",
+  "glosses": [
+    {
+      "id": "namaste",
+      "gloss": "NAMASTE",
+      "english": [
+        "namaste",
+        "hello",
+        "hi",
+        "greetings",
+        "hey",
+        "namaskar",
+        "pranam",
+        "hello friend"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Namaste / Hello\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "thank_you",
+      "gloss": "THANK_YOU",
+      "english": [
+        "thank_you",
+        "thank you",
+        "thanks",
+        "dhanyavaad",
+        "shukriya",
+        "thank-you",
+        "thank",
+        "thank you very much",
+        "thank you so much",
+        "thanks a lot",
+        "grateful"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Thank You\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "welcome",
+      "gloss": "WELCOME",
+      "english": [
+        "welcome",
+        "you are welcome",
+        "pleasure",
+        "nice to meet you"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Welcome\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "please",
+      "gloss": "PLEASE",
+      "english": [
+        "please",
+        "kripya",
+        "kindly"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Please\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "yes",
+      "gloss": "YES",
+      "english": [
+        "yes",
+        "ha",
+        "correct",
+        "yep",
+        "yeah",
+        "sure"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Yes\".",
+      "durationMs": 1100
+    },
+    {
+      "id": "no",
+      "gloss": "NO",
+      "english": [
+        "no",
+        "nahi",
+        "incorrect",
+        "nope"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"No\".",
+      "durationMs": 1100
+    },
+    {
+      "id": "help",
+      "gloss": "HELP",
+      "english": [
+        "help",
+        "assist",
+        "assistance",
+        "support",
+        "madad",
+        "help me",
+        "can you help me",
+        "save",
+        "care",
+        "aid",
+        "rescue"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Help\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "where",
+      "gloss": "WHERE",
+      "english": [
+        "where",
+        "kahan",
+        "where?",
+        "where is",
+        "where are"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Where\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "what",
+      "gloss": "WHAT",
+      "english": [
+        "what",
+        "kya",
+        "what?",
+        "what is"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"What\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "who",
+      "gloss": "WHO",
+      "english": [
+        "who",
+        "kaun",
+        "who?",
+        "who is"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Who\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "how",
+      "gloss": "HOW",
+      "english": [
+        "how",
+        "kaise",
+        "how?",
+        "how are you",
+        "how are you today"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"How\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "good_morning",
+      "gloss": "GOOD_MORNING",
+      "english": [
+        "good_morning",
+        "good morning",
+        "good-morning",
+        "morning",
+        "subah"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Good Morning\".",
+      "durationMs": 1600
+    },
+    {
+      "id": "water",
+      "gloss": "WATER",
+      "english": [
+        "water",
+        "pani",
+        "jal",
+        "drink water",
+        "drink",
+        "ocean",
+        "sea",
+        "reef",
+        "coral",
+        "marine",
+        "fish"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Water\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "food",
+      "gloss": "FOOD",
+      "english": [
+        "food",
+        "eat",
+        "eating",
+        "khana",
+        "meal",
+        "lunch",
+        "dinner"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Food / Eat\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "doctor",
+      "gloss": "DOCTOR",
+      "english": [
+        "doctor",
+        "physician",
+        "hospital",
+        "daktar",
+        "medic",
+        "surgeon",
+        "clinic",
+        "paramedic",
+        "nurse",
+        "ambulance"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Doctor\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "emergency",
+      "gloss": "EMERGENCY",
+      "english": [
+        "emergency",
+        "urgent",
+        "danger",
+        "khatra",
+        "emergency assistance"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Emergency\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "train_station",
+      "gloss": "TRAIN_STATION",
+      "english": [
+        "train_station",
+        "train station",
+        "railway",
+        "station",
+        "train-station",
+        "train",
+        "space",
+        "base",
+        "dock",
+        "center"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Train Station\".",
+      "durationMs": 1500
+    },
+    {
+      "id": "school",
+      "gloss": "SCHOOL",
+      "english": [
+        "school",
+        "college",
+        "study",
+        "class",
+        "student"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"School / Study\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "my_name",
+      "gloss": "MY_NAME",
+      "english": [
+        "my_name",
+        "my name is",
+        "my name",
+        "my-name",
+        "mera naam",
+        "name"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"My Name\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "goodbye",
+      "gloss": "GOODBYE",
+      "english": [
+        "goodbye",
+        "bye",
+        "see you",
+        "tata",
+        "farewell"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Goodbye\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "you",
+      "gloss": "YOU",
+      "english": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"You\".",
+      "durationMs": 1100
+    },
+    {
+      "id": "me",
+      "gloss": "ME",
+      "english": [
+        "me",
+        "my",
+        "mine",
+        "myself",
+        "mera"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Me / I\".",
+      "durationMs": 1100
+    },
+    {
+      "id": "i",
+      "gloss": "I",
+      "english": [
+        "i",
+        "me"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"I\".",
+      "durationMs": 1100
+    },
+    {
+      "id": "are",
+      "gloss": "ARE",
+      "english": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Are\".",
+      "durationMs": 1000
+    },
+    {
+      "id": "nice",
+      "gloss": "NICE",
+      "english": [
+        "nice",
+        "good",
+        "pleasant",
+        "great",
+        "fine",
+        "beautiful",
+        "pretty",
+        "cool",
+        "wonderful",
+        "awesome",
+        "amazing"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Nice\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "meet",
+      "gloss": "MEET",
+      "english": [
+        "meet",
+        "meeting",
+        "met",
+        "meet you",
+        "surround",
+        "surrounds",
+        "circle",
+        "together",
+        "join",
+        "unite",
+        "gather"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Meet\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "love",
+      "gloss": "LOVE",
+      "english": [
+        "love",
+        "like",
+        "affection",
+        "pyar"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Love\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "friend",
+      "gloss": "FRIEND",
+      "english": [
+        "friend",
+        "dost",
+        "companion",
+        "buddy",
+        "pal",
+        "elephant",
+        "animal",
+        "creature",
+        "pet",
+        "dog",
+        "cat"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Friend\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "give",
+      "gloss": "GIVE",
+      "english": [
+        "give",
+        "giving",
+        "gave",
+        "offer",
+        "dena"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Give\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "need",
+      "gloss": "NEED",
+      "english": [
+        "need",
+        "require",
+        "needed",
+        "zaroorat"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Need\".",
+      "durationMs": 1100
+    },
+    {
+      "id": "everyone",
+      "gloss": "EVERYONE",
+      "english": [
+        "everyone",
+        "everybody",
+        "all people",
+        "sab log",
+        "all",
+        "every",
+        "people",
+        "human",
+        "society",
+        "community",
+        "world"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Everyone\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "come",
+      "gloss": "COME",
+      "english": [
+        "come",
+        "coming",
+        "came",
+        "aao"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Come\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "happy",
+      "gloss": "HAPPY",
+      "english": [
+        "happy",
+        "glad",
+        "joyful",
+        "khush",
+        "empower",
+        "power",
+        "grow",
+        "growth",
+        "joy",
+        "smile",
+        "alive"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Happy\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "sad",
+      "gloss": "SAD",
+      "english": [
+        "sad",
+        "unhappy",
+        "upset",
+        "dukhi"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Sad\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "sorry",
+      "gloss": "SORRY",
+      "english": [
+        "sorry",
+        "apologize",
+        "apology",
+        "maafi"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Sorry\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "family",
+      "gloss": "FAMILY",
+      "english": [
+        "family",
+        "parivaar",
+        "relatives",
+        "parents",
+        "household",
+        "generation"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Family\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "home",
+      "gloss": "HOME",
+      "english": [
+        "home",
+        "house",
+        "ghar"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Home\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "work",
+      "gloss": "WORK",
+      "english": [
+        "work",
+        "job",
+        "kaam",
+        "working",
+        "astronaut",
+        "engineer",
+        "mission",
+        "operation",
+        "task",
+        "duty"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Work\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "want",
+      "gloss": "WANT",
+      "english": [
+        "want",
+        "desire",
+        "wish",
+        "chahiye"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Want\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "know",
+      "gloss": "KNOW",
+      "english": [
+        "know",
+        "knowing",
+        "knew",
+        "jaanta",
+        "look",
+        "see",
+        "view",
+        "notice",
+        "hear",
+        "listen",
+        "sound"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Know\".",
+      "durationMs": 1100
+    },
+    {
+      "id": "understand",
+      "gloss": "UNDERSTAND",
+      "english": [
+        "understand",
+        "understood",
+        "samajh"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Understand\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "learn",
+      "gloss": "LEARN",
+      "english": [
+        "learn",
+        "learning",
+        "padhai",
+        "seekhna",
+        "science",
+        "physics",
+        "astronomy",
+        "biology",
+        "research",
+        "explore",
+        "discovery"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Learn\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "teach",
+      "gloss": "TEACH",
+      "english": [
+        "teach",
+        "teacher",
+        "teaching",
+        "sikhana",
+        "speak",
+        "tell",
+        "talk",
+        "say",
+        "sign",
+        "language",
+        "speech"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Teach\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "go",
+      "gloss": "GO",
+      "english": [
+        "go",
+        "going",
+        "went",
+        "jaana",
+        "move",
+        "travel",
+        "ride"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Go\".",
+      "durationMs": 1100
+    },
+    {
+      "id": "thank",
+      "gloss": "THANK",
+      "english": [
+        "thank"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Thank You\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "thanks",
+      "gloss": "THANKS",
+      "english": [
+        "thanks"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Thank You\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "hello",
+      "gloss": "HELLO",
+      "english": [
+        "hello"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Hello / Namaste\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "hi",
+      "gloss": "HI",
+      "english": [
+        "hi"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Hi / Namaste\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "greetings",
+      "gloss": "GREETINGS",
+      "english": [
+        "greetings"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Greetings\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "assist",
+      "gloss": "ASSIST",
+      "english": [
+        "assist"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Assist / Help\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "assistance",
+      "gloss": "ASSISTANCE",
+      "english": [
+        "assistance"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Assistance / Help\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "train",
+      "gloss": "TRAIN",
+      "english": [
+        "train"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Train\".",
+      "durationMs": 1500
+    },
+    {
+      "id": "station",
+      "gloss": "STATION",
+      "english": [
+        "station"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Station\".",
+      "durationMs": 1500
+    },
+    {
+      "id": "hospital",
+      "gloss": "HOSPITAL",
+      "english": [
+        "hospital"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Hospital / Doctor\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "eat",
+      "gloss": "EAT",
+      "english": [
+        "eat"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Eat / Food\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "bye",
+      "gloss": "BYE",
+      "english": [
+        "bye"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Goodbye\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "study",
+      "gloss": "STUDY",
+      "english": [
+        "study"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Study / School\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "good",
+      "gloss": "GOOD",
+      "english": [
+        "good"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Good\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "all",
+      "gloss": "ALL",
+      "english": [
+        "all"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Everyone\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "india",
+      "gloss": "INDIA",
+      "english": [
+        "india",
+        "bharat",
+        "hindustan",
+        "indian",
+        "nation",
+        "national",
+        "country"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"India / Bharat\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "police",
+      "gloss": "POLICE",
+      "english": [
+        "police",
+        "cop",
+        "officer",
+        "security forces",
+        "patrol",
+        "law enforcement"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Police / Security Forces\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "sports",
+      "gloss": "SPORTS",
+      "english": [
+        "sports",
+        "cricket",
+        "match",
+        "game",
+        "tournament",
+        "athletics",
+        "player",
+        "players"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Sports / Cricket\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "win",
+      "gloss": "WIN",
+      "english": [
+        "win",
+        "winner",
+        "victory",
+        "champion",
+        "championship",
+        "trophy",
+        "triumph",
+        "won"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Win / Victory / Champion\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "technology",
+      "gloss": "TECHNOLOGY",
+      "english": [
+        "technology",
+        "tech",
+        "digital",
+        "software",
+        "app",
+        "system",
+        "device",
+        "tools"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Technology / Digital\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "safety",
+      "gloss": "SAFETY",
+      "english": [
+        "safety",
+        "security",
+        "protect",
+        "protection",
+        "safe",
+        "secure",
+        "guard"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Safety / Protection / Security\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "policy",
+      "gloss": "POLICY",
+      "english": [
+        "policy",
+        "law",
+        "act",
+        "guideline",
+        "regulation",
+        "rule",
+        "charter"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Policy / Official Law\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "announcement",
+      "gloss": "ANNOUNCEMENT",
+      "english": [
+        "announcement",
+        "announce",
+        "broadcast",
+        "prime time",
+        "bulletin",
+        "news",
+        "headline"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Announcement / Broadcast\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "celebrate",
+      "gloss": "CELEBRATE",
+      "english": [
+        "celebrate",
+        "celebration",
+        "festival",
+        "celebrating",
+        "joyous",
+        "triumphant"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Celebrate / Celebration\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "today",
+      "gloss": "TODAY",
+      "english": [
+        "today",
+        "now",
+        "present",
+        "aaj",
+        "currently",
+        "at present",
+        "moment"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Today / Present / Now\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "cricket",
+      "gloss": "CRICKET",
+      "english": [
+        "cricket"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Cricket / Sports\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "champion",
+      "gloss": "CHAMPION",
+      "english": [
+        "champion"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Champion / Win\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "victory",
+      "gloss": "VICTORY",
+      "english": [
+        "victory"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Victory / Win\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "security",
+      "gloss": "SECURITY",
+      "english": [
+        "security"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Security / Safety\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "law",
+      "gloss": "LAW",
+      "english": [
+        "law"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Law / Policy\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "broadcast",
+      "gloss": "BROADCAST",
+      "english": [
+        "broadcast"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Broadcast / Announcement\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "drill",
+      "gloss": "DRILL",
+      "english": [
+        "drill"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Safety Drill\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "now",
+      "gloss": "NOW",
+      "english": [
+        "now"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Now / Today\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "present",
+      "gloss": "PRESENT",
+      "english": [
+        "present"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Present / Today\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "time",
+      "gloss": "TIME",
+      "english": [
+        "time",
+        "clock",
+        "watch",
+        "hour",
+        "hours",
+        "minute",
+        "minutes",
+        "samay",
+        "waqt",
+        "timing",
+        "schedule"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Time / Clock\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "tomorrow",
+      "gloss": "TOMORROW",
+      "english": [
+        "tomorrow",
+        "next day",
+        "kal",
+        "upcoming day",
+        "upcoming",
+        "future",
+        "next"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Tomorrow\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "yesterday",
+      "gloss": "YESTERDAY",
+      "english": [
+        "yesterday",
+        "past day",
+        "kal tha",
+        "previous day",
+        "earlier",
+        "previous",
+        "past",
+        "prior"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Yesterday\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "good_night",
+      "gloss": "GOOD_NIGHT",
+      "english": [
+        "good_night",
+        "good night",
+        "goodnight",
+        "shubh ratri",
+        "sweet dreams"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Good Night\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "always",
+      "gloss": "ALWAYS",
+      "english": [
+        "always",
+        "forever",
+        "ever",
+        "constantly",
+        "hamesha",
+        "sada"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Always / Forever\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "never",
+      "gloss": "NEVER",
+      "english": [
+        "never",
+        "kabhi nahi",
+        "not ever",
+        "at no time"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Never\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "father",
+      "gloss": "FATHER",
+      "english": [
+        "father",
+        "dad",
+        "papa",
+        "pitaji",
+        "daddy",
+        "paternal"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Father / Dad\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "mother",
+      "gloss": "MOTHER",
+      "english": [
+        "mother",
+        "mom",
+        "mummy",
+        "mataji",
+        "mama",
+        "maternal"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Mother / Mom\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "brother",
+      "gloss": "BROTHER",
+      "english": [
+        "brother",
+        "bhai",
+        "bro",
+        "sibling"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Brother\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "sister",
+      "gloss": "SISTER",
+      "english": [
+        "sister",
+        "behen",
+        "sis"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Sister\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "child",
+      "gloss": "CHILD",
+      "english": [
+        "child",
+        "children",
+        "kid",
+        "kids",
+        "baby",
+        "babies",
+        "baccha",
+        "bacche",
+        "toddler",
+        "youth",
+        "infant"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Child / Baby / Children\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "car",
+      "gloss": "CAR",
+      "english": [
+        "car",
+        "drive",
+        "driving",
+        "vehicle",
+        "automobile",
+        "gaadi",
+        "traffic",
+        "motor",
+        "highway",
+        "driver",
+        "street"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Car / Drive / Vehicle\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "bus",
+      "gloss": "BUS",
+      "english": [
+        "bus",
+        "coach",
+        "transit bus"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Bus\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "airplane",
+      "gloss": "AIRPLANE",
+      "english": [
+        "airplane",
+        "fly",
+        "plane",
+        "flight",
+        "aeroplane",
+        "aviation",
+        "airport",
+        "airline",
+        "airways",
+        "terminal"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Airplane / Flight / Airport\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "office",
+      "gloss": "OFFICE",
+      "english": [
+        "office",
+        "workplace",
+        "headquarters",
+        "branch",
+        "desk"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Office / Workplace\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "market",
+      "gloss": "MARKET",
+      "english": [
+        "market",
+        "shop",
+        "store",
+        "bazaar",
+        "mart",
+        "supermarket",
+        "mall",
+        "commerce",
+        "retail",
+        "vendor",
+        "shopping"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Market / Shop / Store\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "money",
+      "gloss": "MONEY",
+      "english": [
+        "money",
+        "cash",
+        "pay",
+        "payment",
+        "rupee",
+        "rupees",
+        "dollar",
+        "price",
+        "cost",
+        "currency",
+        "funds"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Money / Pay / Cash\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "book",
+      "gloss": "BOOK",
+      "english": [
+        "book",
+        "books",
+        "read",
+        "reading",
+        "novel",
+        "textbook",
+        "pustak",
+        "kitab"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Book / Read\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "write",
+      "gloss": "WRITE",
+      "english": [
+        "write",
+        "writing",
+        "wrote",
+        "written",
+        "letter",
+        "note",
+        "pen",
+        "pencil",
+        "author",
+        "likhna"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Write / Letter\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "phone",
+      "gloss": "PHONE",
+      "english": [
+        "phone",
+        "telephone",
+        "mobile",
+        "call",
+        "calling",
+        "cell",
+        "smartphone",
+        "ring",
+        "telecom",
+        "contact",
+        "hotline"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Phone / Call / Mobile\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "computer",
+      "gloss": "COMPUTER",
+      "english": [
+        "computer",
+        "laptop",
+        "pc",
+        "desktop",
+        "screen",
+        "keyboard"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Computer / Laptop\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "internet",
+      "gloss": "INTERNET",
+      "english": [
+        "internet",
+        "web",
+        "online",
+        "wifi",
+        "broadband",
+        "network",
+        "cyber",
+        "connectivity",
+        "server",
+        "cloud",
+        "portal"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Internet / Network / Web\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "message",
+      "gloss": "MESSAGE",
+      "english": [
+        "message",
+        "messages",
+        "chat",
+        "chatting",
+        "sms",
+        "text message",
+        "messaging",
+        "inbox",
+        "notification",
+        "alert",
+        "email"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Message / Chat / SMS\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "question",
+      "gloss": "QUESTION",
+      "english": [
+        "question",
+        "questions",
+        "ask",
+        "asking",
+        "query",
+        "queries",
+        "sawal"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Question / Ask / Query\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "answer",
+      "gloss": "ANSWER",
+      "english": [
+        "answer",
+        "reply",
+        "responding",
+        "response",
+        "solution",
+        "jawab"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Answer / Reply / Response\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "start",
+      "gloss": "START",
+      "english": [
+        "start",
+        "starting",
+        "begin",
+        "beginning",
+        "commence",
+        "launch",
+        "shuru"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Start / Begin / Launch\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "stop",
+      "gloss": "STOP",
+      "english": [
+        "stop",
+        "stopping",
+        "halt",
+        "pause",
+        "cease",
+        "finish",
+        "end",
+        "rokna"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Stop / Halt\".",
+      "durationMs": 1100
+    },
+    {
+      "id": "open",
+      "gloss": "OPEN",
+      "english": [
+        "open",
+        "opening",
+        "opened",
+        "unlock",
+        "unlocked",
+        "kholna"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Open\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "close",
+      "gloss": "CLOSE",
+      "english": [
+        "close",
+        "closing",
+        "closed",
+        "shut",
+        "shutting",
+        "band"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Close / Shut\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "walk",
+      "gloss": "WALK",
+      "english": [
+        "walk",
+        "walking",
+        "walked",
+        "stroll",
+        "steps",
+        "chalo",
+        "pedestrian"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Walk / Stroll\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "sleep",
+      "gloss": "SLEEP",
+      "english": [
+        "sleep",
+        "sleeping",
+        "slept",
+        "asleep",
+        "rest",
+        "bedtime",
+        "so jao"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Sleep / Rest\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "strong",
+      "gloss": "STRONG",
+      "english": [
+        "strong",
+        "strength",
+        "powerful",
+        "taqat",
+        "mighty",
+        "robust"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Strong / Power / Strength\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "tired",
+      "gloss": "TIRED",
+      "english": [
+        "tired",
+        "exhausted",
+        "fatigue",
+        "weary",
+        "thak gaya"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Tired / Exhausted\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "angry",
+      "gloss": "ANGRY",
+      "english": [
+        "angry",
+        "mad",
+        "furious",
+        "anger",
+        "gussa",
+        "rage"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Angry / Mad\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "sick",
+      "gloss": "SICK",
+      "english": [
+        "sick",
+        "ill",
+        "illness",
+        "fever",
+        "disease",
+        "unwell",
+        "bimar",
+        "infection",
+        "symptoms",
+        "cough",
+        "pain"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Sick / Fever / Illness\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "medicine",
+      "gloss": "MEDICINE",
+      "english": [
+        "medicine",
+        "medicines",
+        "pill",
+        "pills",
+        "tablet",
+        "drug",
+        "cure",
+        "dawa",
+        "treatment",
+        "pharmacy",
+        "dose"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Medicine / Pill\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "important",
+      "gloss": "IMPORTANT",
+      "english": [
+        "important",
+        "essential",
+        "crucial",
+        "vital",
+        "significant",
+        "key",
+        "zaroori"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Important / Essential\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "peace",
+      "gloss": "PEACE",
+      "english": [
+        "peace",
+        "calm",
+        "peaceful",
+        "harmony",
+        "shanti",
+        "serene"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Peace / Calm\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "agree",
+      "gloss": "AGREE",
+      "english": [
+        "agree",
+        "agreed",
+        "agreement",
+        "accept",
+        "accepted",
+        "concur",
+        "sahamat"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Agree / Accept\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "disagree",
+      "gloss": "DISAGREE",
+      "english": [
+        "disagree",
+        "disagreed",
+        "disagreement",
+        "reject",
+        "rejected",
+        "oppose",
+        "asahmat"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Disagree / Reject\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "clock",
+      "gloss": "CLOCK",
+      "english": [
+        "clock"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Clock / Time\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "watch",
+      "gloss": "WATCH",
+      "english": [
+        "watch"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Watch / Time\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "hour",
+      "gloss": "HOUR",
+      "english": [
+        "hour"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Hour / Time\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "minute",
+      "gloss": "MINUTE",
+      "english": [
+        "minute"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Minute / Time\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "night",
+      "gloss": "NIGHT",
+      "english": [
+        "night"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Night\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "forever",
+      "gloss": "FOREVER",
+      "english": [
+        "forever"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Forever / Always\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "dad",
+      "gloss": "DAD",
+      "english": [
+        "dad"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Dad / Father\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "mom",
+      "gloss": "MOM",
+      "english": [
+        "mom"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Mom / Mother\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "baby",
+      "gloss": "BABY",
+      "english": [
+        "baby"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Baby / Child\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "kid",
+      "gloss": "KID",
+      "english": [
+        "kid"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Kid / Child\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "drive",
+      "gloss": "DRIVE",
+      "english": [
+        "drive"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Drive / Car\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "vehicle",
+      "gloss": "VEHICLE",
+      "english": [
+        "vehicle"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Vehicle / Car\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "plane",
+      "gloss": "PLANE",
+      "english": [
+        "plane"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Plane / Airplane\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "flight",
+      "gloss": "FLIGHT",
+      "english": [
+        "flight"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Flight / Airplane\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "airport",
+      "gloss": "AIRPORT",
+      "english": [
+        "airport"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Airport / Airplane\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "workplace",
+      "gloss": "WORKPLACE",
+      "english": [
+        "workplace"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Workplace / Office\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "store",
+      "gloss": "STORE",
+      "english": [
+        "store"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Store / Market\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "shop",
+      "gloss": "SHOP",
+      "english": [
+        "shop"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Shop / Market\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "cash",
+      "gloss": "CASH",
+      "english": [
+        "cash"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Cash / Money\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "pay",
+      "gloss": "PAY",
+      "english": [
+        "pay"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Pay / Money\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "rupee",
+      "gloss": "RUPEE",
+      "english": [
+        "rupee"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Rupee / Money\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "read",
+      "gloss": "READ",
+      "english": [
+        "read"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Read / Book\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "pen",
+      "gloss": "PEN",
+      "english": [
+        "pen"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Pen / Write\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "note",
+      "gloss": "NOTE",
+      "english": [
+        "note"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Note / Write\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "call",
+      "gloss": "CALL",
+      "english": [
+        "call"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Call / Phone\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "telephone",
+      "gloss": "TELEPHONE",
+      "english": [
+        "telephone"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Telephone / Phone\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "mobile",
+      "gloss": "MOBILE",
+      "english": [
+        "mobile"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Mobile / Phone\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "laptop",
+      "gloss": "LAPTOP",
+      "english": [
+        "laptop"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Laptop / Computer\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "pc",
+      "gloss": "PC",
+      "english": [
+        "pc"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"PC / Computer\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "web",
+      "gloss": "WEB",
+      "english": [
+        "web"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Web / Internet\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "online",
+      "gloss": "ONLINE",
+      "english": [
+        "online"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Online / Internet\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "chat",
+      "gloss": "CHAT",
+      "english": [
+        "chat"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Chat / Message\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "sms",
+      "gloss": "SMS",
+      "english": [
+        "sms"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"SMS / Message\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "ask",
+      "gloss": "ASK",
+      "english": [
+        "ask"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Ask / Question\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "query",
+      "gloss": "QUERY",
+      "english": [
+        "query"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Query / Question\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "reply",
+      "gloss": "REPLY",
+      "english": [
+        "reply"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Reply / Answer\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "response",
+      "gloss": "RESPONSE",
+      "english": [
+        "response"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Response / Answer\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "begin",
+      "gloss": "BEGIN",
+      "english": [
+        "begin"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Begin / Start\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "halt",
+      "gloss": "HALT",
+      "english": [
+        "halt"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Halt / Stop\".",
+      "durationMs": 1100
+    },
+    {
+      "id": "pause",
+      "gloss": "PAUSE",
+      "english": [
+        "pause"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Pause / Stop\".",
+      "durationMs": 1100
+    },
+    {
+      "id": "shut",
+      "gloss": "SHUT",
+      "english": [
+        "shut"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Shut / Close\".",
+      "durationMs": 1200
+    },
+    {
+      "id": "rest",
+      "gloss": "REST",
+      "english": [
+        "rest"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Rest / Sleep\".",
+      "durationMs": 1400
+    },
+    {
+      "id": "power",
+      "gloss": "POWER",
+      "english": [
+        "power"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Power / Strong\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "strength",
+      "gloss": "STRENGTH",
+      "english": [
+        "strength"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Strength / Strong\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "exhausted",
+      "gloss": "EXHAUSTED",
+      "english": [
+        "exhausted"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Exhausted / Tired\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "mad",
+      "gloss": "MAD",
+      "english": [
+        "mad"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Mad / Angry\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "ill",
+      "gloss": "ILL",
+      "english": [
+        "ill"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Ill / Sick\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "fever",
+      "gloss": "FEVER",
+      "english": [
+        "fever"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Fever / Sick\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "pill",
+      "gloss": "PILL",
+      "english": [
+        "pill"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Pill / Medicine\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "tablet",
+      "gloss": "TABLET",
+      "english": [
+        "tablet"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Tablet / Medicine\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "crucial",
+      "gloss": "CRUCIAL",
+      "english": [
+        "crucial"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Crucial / Important\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "calm",
+      "gloss": "CALM",
+      "english": [
+        "calm"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Calm / Peace\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "accept",
+      "gloss": "ACCEPT",
+      "english": [
+        "accept"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Accept / Agree\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "reject",
+      "gloss": "REJECT",
+      "english": [
+        "reject"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": true,
+      "description": "Official Indian Sign Language gesture for \"Reject / Disagree\".",
+      "durationMs": 1300
+    },
+    {
+      "id": "isl_a",
+      "gloss": "ISL_A",
+      "english": [
+        "isl a",
+        "ISL Letter A"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter A",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_b",
+      "gloss": "ISL_B",
+      "english": [
+        "isl b",
+        "ISL Letter B"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter B",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_c",
+      "gloss": "ISL_C",
+      "english": [
+        "isl c",
+        "ISL Letter C"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter C",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_d",
+      "gloss": "ISL_D",
+      "english": [
+        "isl d",
+        "ISL Letter D"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter D",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_e",
+      "gloss": "ISL_E",
+      "english": [
+        "isl e",
+        "ISL Letter E"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter E",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_f",
+      "gloss": "ISL_F",
+      "english": [
+        "isl f",
+        "ISL Letter F"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter F",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_g",
+      "gloss": "ISL_G",
+      "english": [
+        "isl g",
+        "ISL Letter G"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter G",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_h",
+      "gloss": "ISL_H",
+      "english": [
+        "isl h",
+        "ISL Letter H"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter H",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_i",
+      "gloss": "ISL_I",
+      "english": [
+        "isl i",
+        "ISL Letter I"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter I",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_j",
+      "gloss": "ISL_J",
+      "english": [
+        "isl j",
+        "ISL Letter J"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter J",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_k",
+      "gloss": "ISL_K",
+      "english": [
+        "isl k",
+        "ISL Letter K"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter K",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_l",
+      "gloss": "ISL_L",
+      "english": [
+        "isl l",
+        "ISL Letter L"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter L",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_m",
+      "gloss": "ISL_M",
+      "english": [
+        "isl m",
+        "ISL Letter M"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter M",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_n",
+      "gloss": "ISL_N",
+      "english": [
+        "isl n",
+        "ISL Letter N"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter N",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_o",
+      "gloss": "ISL_O",
+      "english": [
+        "isl o",
+        "ISL Letter O"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter O",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_p",
+      "gloss": "ISL_P",
+      "english": [
+        "isl p",
+        "ISL Letter P"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter P",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_q",
+      "gloss": "ISL_Q",
+      "english": [
+        "isl q",
+        "ISL Letter Q"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter Q",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_r",
+      "gloss": "ISL_R",
+      "english": [
+        "isl r",
+        "ISL Letter R"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter R",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_s",
+      "gloss": "ISL_S",
+      "english": [
+        "isl s",
+        "ISL Letter S"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter S",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_t",
+      "gloss": "ISL_T",
+      "english": [
+        "isl t",
+        "ISL Letter T"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter T",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_u",
+      "gloss": "ISL_U",
+      "english": [
+        "isl u",
+        "ISL Letter U"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter U",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_v",
+      "gloss": "ISL_V",
+      "english": [
+        "isl v",
+        "ISL Letter V"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter V",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_w",
+      "gloss": "ISL_W",
+      "english": [
+        "isl w",
+        "ISL Letter W"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter W",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_x",
+      "gloss": "ISL_X",
+      "english": [
+        "isl x",
+        "ISL Letter X"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter X",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_y",
+      "gloss": "ISL_Y",
+      "english": [
+        "isl y",
+        "ISL Letter Y"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter Y",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_z",
+      "gloss": "ISL_Z",
+      "english": [
+        "isl z",
+        "ISL Letter Z"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "ISL Letter Z",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_1",
+      "gloss": "ISL_1",
+      "english": [
+        "isl 1",
+        "Number 1"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Number 1",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_2",
+      "gloss": "ISL_2",
+      "english": [
+        "isl 2",
+        "Number 2"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Number 2",
+      "durationMs": 1000
+    },
+    {
+      "id": "isl_3",
+      "gloss": "ISL_3",
+      "english": [
+        "isl 3",
+        "Number 3"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Number 3",
+      "durationMs": 1000
+    },
+    {
+      "id": "news",
+      "gloss": "NEWS",
+      "english": [
+        "news",
+        "News / Broadcast"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "News / Broadcast",
+      "durationMs": 1400
+    },
+    {
+      "id": "prime_minister",
+      "gloss": "PRIME_MINISTER",
+      "english": [
+        "prime minister",
+        "Prime Minister"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Prime Minister",
+      "durationMs": 1500
+    },
+    {
+      "id": "minister",
+      "gloss": "MINISTER",
+      "english": [
+        "minister",
+        "Minister / Leader"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Minister / Leader",
+      "durationMs": 1400
+    },
+    {
+      "id": "government",
+      "gloss": "GOVERNMENT",
+      "english": [
+        "government",
+        "Government / Authority"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Government / Authority",
+      "durationMs": 1400
+    },
+    {
+      "id": "country",
+      "gloss": "COUNTRY",
+      "english": [
+        "country",
+        "Country / Nation"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Country / Nation",
+      "durationMs": 1400
+    },
+    {
+      "id": "city",
+      "gloss": "CITY",
+      "english": [
+        "city",
+        "City / Metro"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "City / Metro",
+      "durationMs": 1400
+    },
+    {
+      "id": "people",
+      "gloss": "PEOPLE",
+      "english": [
+        "people",
+        "People / Public"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "People / Public",
+      "durationMs": 1400
+    },
+    {
+      "id": "rain",
+      "gloss": "RAIN",
+      "english": [
+        "rain",
+        "Rain / Rainfall"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Rain / Rainfall",
+      "durationMs": 1400
+    },
+    {
+      "id": "weather",
+      "gloss": "WEATHER",
+      "english": [
+        "weather",
+        "Weather / Climate"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Weather / Climate",
+      "durationMs": 1300
+    },
+    {
+      "id": "health",
+      "gloss": "HEALTH",
+      "english": [
+        "health",
+        "Health / Wellness"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Health / Wellness",
+      "durationMs": 1400
+    },
+    {
+      "id": "development",
+      "gloss": "DEVELOPMENT",
+      "english": [
+        "development",
+        "Development / Progress"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Development / Progress",
+      "durationMs": 1400
+    },
+    {
+      "id": "safe",
+      "gloss": "SAFE",
+      "english": [
+        "safe",
+        "Safe / Secure"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Safe / Secure",
+      "durationMs": 1400
+    },
+    {
+      "id": "warning",
+      "gloss": "WARNING",
+      "english": [
+        "warning",
+        "Warning / Caution"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Warning / Caution",
+      "durationMs": 1300
+    },
+    {
+      "id": "information",
+      "gloss": "INFORMATION",
+      "english": [
+        "information",
+        "Information / Notice"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Information / Notice",
+      "durationMs": 1400
+    },
+    {
+      "id": "meeting",
+      "gloss": "MEETING",
+      "english": [
+        "meeting",
+        "Meeting / Conference"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Meeting / Conference",
+      "durationMs": 1300
+    },
+    {
+      "id": "travel",
+      "gloss": "TRAVEL",
+      "english": [
+        "travel",
+        "Travel / Journey"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Travel / Journey",
+      "durationMs": 1400
+    },
+    {
+      "id": "drink",
+      "gloss": "DRINK",
+      "english": [
+        "drink",
+        "Drink / Water"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Drink / Water",
+      "durationMs": 1300
+    },
+    {
+      "id": "house",
+      "gloss": "HOUSE",
+      "english": [
+        "house",
+        "House / Building"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "House / Building",
+      "durationMs": 1400
+    },
+    {
+      "id": "future",
+      "gloss": "FUTURE",
+      "english": [
+        "future",
+        "Future / Ahead"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Future / Ahead",
+      "durationMs": 1300
+    },
+    {
+      "id": "past",
+      "gloss": "PAST",
+      "english": [
+        "past",
+        "Past / Ago"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Past / Ago",
+      "durationMs": 1300
+    },
+    {
+      "id": "again",
+      "gloss": "AGAIN",
+      "english": [
+        "again",
+        "Again / Repeat"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Again / Repeat",
+      "durationMs": 1300
+    },
+    {
+      "id": "beautiful",
+      "gloss": "BEAUTIFUL",
+      "english": [
+        "beautiful",
+        "Beautiful / Nice"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Beautiful / Nice",
+      "durationMs": 1400
+    },
+    {
+      "id": "great",
+      "gloss": "GREAT",
+      "english": [
+        "great",
+        "Great / Wonderful"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Great / Wonderful",
+      "durationMs": 1300
+    },
+    {
+      "id": "ready",
+      "gloss": "READY",
+      "english": [
+        "ready",
+        "Ready / Prepared"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Ready / Prepared",
+      "durationMs": 1300
+    },
+    {
+      "id": "media",
+      "gloss": "MEDIA",
+      "english": [
+        "media",
+        "Media / News"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Media / News",
+      "durationMs": 1400
+    },
+    {
+      "id": "report",
+      "gloss": "REPORT",
+      "english": [
+        "report",
+        "Report / News"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Report / News",
+      "durationMs": 1400
+    },
+    {
+      "id": "bulletin",
+      "gloss": "BULLETIN",
+      "english": [
+        "bulletin",
+        "Bulletin / News"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Bulletin / News",
+      "durationMs": 1400
+    },
+    {
+      "id": "journalism",
+      "gloss": "JOURNALISM",
+      "english": [
+        "journalism",
+        "Journalism / News"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Journalism / News",
+      "durationMs": 1400
+    },
+    {
+      "id": "pm",
+      "gloss": "PM",
+      "english": [
+        "pm",
+        "PM / Prime Minister"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "PM / Prime Minister",
+      "durationMs": 1500
+    },
+    {
+      "id": "president",
+      "gloss": "PRESIDENT",
+      "english": [
+        "president",
+        "President / Leader"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "President / Leader",
+      "durationMs": 1500
+    },
+    {
+      "id": "leader",
+      "gloss": "LEADER",
+      "english": [
+        "leader",
+        "Leader / Minister"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Leader / Minister",
+      "durationMs": 1400
+    },
+    {
+      "id": "chief",
+      "gloss": "CHIEF",
+      "english": [
+        "chief",
+        "Chief / Leader"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Chief / Leader",
+      "durationMs": 1400
+    },
+    {
+      "id": "authority",
+      "gloss": "AUTHORITY",
+      "english": [
+        "authority",
+        "Authority / Government"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Authority / Government",
+      "durationMs": 1400
+    },
+    {
+      "id": "state",
+      "gloss": "STATE",
+      "english": [
+        "state",
+        "State / Government"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "State / Government",
+      "durationMs": 1400
+    },
+    {
+      "id": "official",
+      "gloss": "OFFICIAL",
+      "english": [
+        "official",
+        "Official / Government"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Official / Government",
+      "durationMs": 1400
+    },
+    {
+      "id": "bharat",
+      "gloss": "BHARAT",
+      "english": [
+        "bharat",
+        "Bharat / India"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Bharat / India",
+      "durationMs": 1500
+    },
+    {
+      "id": "nation",
+      "gloss": "NATION",
+      "english": [
+        "nation",
+        "Nation / Country"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Nation / Country",
+      "durationMs": 1400
+    },
+    {
+      "id": "national",
+      "gloss": "NATIONAL",
+      "english": [
+        "national",
+        "National / Country"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "National / Country",
+      "durationMs": 1400
+    },
+    {
+      "id": "land",
+      "gloss": "LAND",
+      "english": [
+        "land",
+        "Land / Country"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Land / Country",
+      "durationMs": 1400
+    },
+    {
+      "id": "town",
+      "gloss": "TOWN",
+      "english": [
+        "town",
+        "Town / City"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Town / City",
+      "durationMs": 1400
+    },
+    {
+      "id": "metro",
+      "gloss": "METRO",
+      "english": [
+        "metro",
+        "Metro / City"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Metro / City",
+      "durationMs": 1400
+    },
+    {
+      "id": "village",
+      "gloss": "VILLAGE",
+      "english": [
+        "village",
+        "Village / Town"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Village / Town",
+      "durationMs": 1400
+    },
+    {
+      "id": "citizen",
+      "gloss": "CITIZEN",
+      "english": [
+        "citizen",
+        "Citizen / People"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Citizen / People",
+      "durationMs": 1400
+    },
+    {
+      "id": "public",
+      "gloss": "PUBLIC",
+      "english": [
+        "public",
+        "Public / People"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Public / People",
+      "durationMs": 1400
+    },
+    {
+      "id": "human",
+      "gloss": "HUMAN",
+      "english": [
+        "human",
+        "Human / People"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Human / People",
+      "durationMs": 1400
+    },
+    {
+      "id": "railway",
+      "gloss": "RAILWAY",
+      "english": [
+        "railway",
+        "Railway / Train"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Railway / Train",
+      "durationMs": 1400
+    },
+    {
+      "id": "rainfall",
+      "gloss": "RAINFALL",
+      "english": [
+        "rainfall",
+        "Rainfall / Rain"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Rainfall / Rain",
+      "durationMs": 1400
+    },
+    {
+      "id": "monsoon",
+      "gloss": "MONSOON",
+      "english": [
+        "monsoon",
+        "Monsoon / Rain"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Monsoon / Rain",
+      "durationMs": 1400
+    },
+    {
+      "id": "climate",
+      "gloss": "CLIMATE",
+      "english": [
+        "climate",
+        "Climate / Weather"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Climate / Weather",
+      "durationMs": 1300
+    },
+    {
+      "id": "forecast",
+      "gloss": "FORECAST",
+      "english": [
+        "forecast",
+        "Forecast / Weather"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Forecast / Weather",
+      "durationMs": 1300
+    },
+    {
+      "id": "wellness",
+      "gloss": "WELLNESS",
+      "english": [
+        "wellness",
+        "Wellness / Health"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Wellness / Health",
+      "durationMs": 1400
+    },
+    {
+      "id": "fitness",
+      "gloss": "FITNESS",
+      "english": [
+        "fitness",
+        "Fitness / Health"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Fitness / Health",
+      "durationMs": 1400
+    },
+    {
+      "id": "clinic",
+      "gloss": "CLINIC",
+      "english": [
+        "clinic",
+        "Clinic / Hospital"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Clinic / Hospital",
+      "durationMs": 1400
+    },
+    {
+      "id": "dispensary",
+      "gloss": "DISPENSARY",
+      "english": [
+        "dispensary",
+        "Dispensary / Hospital"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Dispensary / Hospital",
+      "durationMs": 1400
+    },
+    {
+      "id": "progress",
+      "gloss": "PROGRESS",
+      "english": [
+        "progress",
+        "Progress / Development"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Progress / Development",
+      "durationMs": 1400
+    },
+    {
+      "id": "growth",
+      "gloss": "GROWTH",
+      "english": [
+        "growth",
+        "Growth / Development"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Growth / Development",
+      "durationMs": 1400
+    },
+    {
+      "id": "build",
+      "gloss": "BUILD",
+      "english": [
+        "build",
+        "Build / Development"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Build / Development",
+      "durationMs": 1400
+    },
+    {
+      "id": "construct",
+      "gloss": "CONSTRUCT",
+      "english": [
+        "construct",
+        "Construct / Development"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Construct / Development",
+      "durationMs": 1400
+    },
+    {
+      "id": "protect",
+      "gloss": "PROTECT",
+      "english": [
+        "protect",
+        "Protect / Safe"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Protect / Safe",
+      "durationMs": 1400
+    },
+    {
+      "id": "alert",
+      "gloss": "ALERT",
+      "english": [
+        "alert",
+        "Alert / Warning"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Alert / Warning",
+      "durationMs": 1300
+    },
+    {
+      "id": "caution",
+      "gloss": "CAUTION",
+      "english": [
+        "caution",
+        "Caution / Warning"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Caution / Warning",
+      "durationMs": 1300
+    },
+    {
+      "id": "notice",
+      "gloss": "NOTICE",
+      "english": [
+        "notice",
+        "Notice / Information"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Notice / Information",
+      "durationMs": 1400
+    },
+    {
+      "id": "info",
+      "gloss": "INFO",
+      "english": [
+        "info",
+        "Info / Information"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Info / Information",
+      "durationMs": 1400
+    },
+    {
+      "id": "rule",
+      "gloss": "RULE",
+      "english": [
+        "rule",
+        "Rule / Law"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Rule / Law",
+      "durationMs": 1400
+    },
+    {
+      "id": "court",
+      "gloss": "COURT",
+      "english": [
+        "court",
+        "Court / Law"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Court / Law",
+      "durationMs": 1400
+    },
+    {
+      "id": "conference",
+      "gloss": "CONFERENCE",
+      "english": [
+        "conference",
+        "Conference / Meeting"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Conference / Meeting",
+      "durationMs": 1300
+    },
+    {
+      "id": "gathering",
+      "gloss": "GATHERING",
+      "english": [
+        "gathering",
+        "Gathering / Meeting"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Gathering / Meeting",
+      "durationMs": 1300
+    },
+    {
+      "id": "journey",
+      "gloss": "JOURNEY",
+      "english": [
+        "journey",
+        "Journey / Travel"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Journey / Travel",
+      "durationMs": 1400
+    },
+    {
+      "id": "trip",
+      "gloss": "TRIP",
+      "english": [
+        "trip",
+        "Trip / Travel"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Trip / Travel",
+      "durationMs": 1400
+    },
+    {
+      "id": "tour",
+      "gloss": "TOUR",
+      "english": [
+        "tour",
+        "Tour / Travel"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Tour / Travel",
+      "durationMs": 1400
+    },
+    {
+      "id": "meal",
+      "gloss": "MEAL",
+      "english": [
+        "meal",
+        "Meal / Food"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Meal / Food",
+      "durationMs": 1300
+    },
+    {
+      "id": "lunch",
+      "gloss": "LUNCH",
+      "english": [
+        "lunch",
+        "Lunch / Food"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Lunch / Food",
+      "durationMs": 1300
+    },
+    {
+      "id": "dinner",
+      "gloss": "DINNER",
+      "english": [
+        "dinner",
+        "Dinner / Food"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Dinner / Food",
+      "durationMs": 1300
+    },
+    {
+      "id": "breakfast",
+      "gloss": "BREAKFAST",
+      "english": [
+        "breakfast",
+        "Breakfast / Food"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Breakfast / Food",
+      "durationMs": 1300
+    },
+    {
+      "id": "beverage",
+      "gloss": "BEVERAGE",
+      "english": [
+        "beverage",
+        "Beverage / Drink"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Beverage / Drink",
+      "durationMs": 1300
+    },
+    {
+      "id": "tea",
+      "gloss": "TEA",
+      "english": [
+        "tea",
+        "Tea / Drink"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Tea / Drink",
+      "durationMs": 1300
+    },
+    {
+      "id": "coffee",
+      "gloss": "COFFEE",
+      "english": [
+        "coffee",
+        "Coffee / Drink"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Coffee / Drink",
+      "durationMs": 1300
+    },
+    {
+      "id": "building",
+      "gloss": "BUILDING",
+      "english": [
+        "building",
+        "Building / House"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Building / House",
+      "durationMs": 1400
+    },
+    {
+      "id": "shelter",
+      "gloss": "SHELTER",
+      "english": [
+        "shelter",
+        "Shelter / House"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Shelter / House",
+      "durationMs": 1400
+    },
+    {
+      "id": "parents",
+      "gloss": "PARENTS",
+      "english": [
+        "parents",
+        "Parents / Family"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Parents / Family",
+      "durationMs": 1500
+    },
+    {
+      "id": "relatives",
+      "gloss": "RELATIVES",
+      "english": [
+        "relatives",
+        "Relatives / Family"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Relatives / Family",
+      "durationMs": 1500
+    },
+    {
+      "id": "today_now",
+      "gloss": "TODAY_NOW",
+      "english": [
+        "today now",
+        "Today Now / Now"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Today Now / Now",
+      "durationMs": 1200
+    },
+    {
+      "id": "ahead",
+      "gloss": "AHEAD",
+      "english": [
+        "ahead",
+        "Ahead / Future"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Ahead / Future",
+      "durationMs": 1300
+    },
+    {
+      "id": "before",
+      "gloss": "BEFORE",
+      "english": [
+        "before",
+        "Before / Past"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Before / Past",
+      "durationMs": 1300
+    },
+    {
+      "id": "history",
+      "gloss": "HISTORY",
+      "english": [
+        "history",
+        "History / Past"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "History / Past",
+      "durationMs": 1300
+    },
+    {
+      "id": "clear",
+      "gloss": "CLEAR",
+      "english": [
+        "clear",
+        "Clear / Understand"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Clear / Understand",
+      "durationMs": 1300
+    },
+    {
+      "id": "repeat",
+      "gloss": "REPEAT",
+      "english": [
+        "repeat",
+        "Repeat / Again"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Repeat / Again",
+      "durationMs": 1300
+    },
+    {
+      "id": "apologize",
+      "gloss": "APOLOGIZE",
+      "english": [
+        "apologize",
+        "Apologize / Sorry"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Apologize / Sorry",
+      "durationMs": 1400
+    },
+    {
+      "id": "pretty",
+      "gloss": "PRETTY",
+      "english": [
+        "pretty",
+        "Pretty / Beautiful"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Pretty / Beautiful",
+      "durationMs": 1400
+    },
+    {
+      "id": "gorgeous",
+      "gloss": "GORGEOUS",
+      "english": [
+        "gorgeous",
+        "Gorgeous / Beautiful"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Gorgeous / Beautiful",
+      "durationMs": 1400
+    },
+    {
+      "id": "excellent",
+      "gloss": "EXCELLENT",
+      "english": [
+        "excellent",
+        "Excellent / Great"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Excellent / Great",
+      "durationMs": 1300
+    },
+    {
+      "id": "awesome",
+      "gloss": "AWESOME",
+      "english": [
+        "awesome",
+        "Awesome / Great"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Awesome / Great",
+      "durationMs": 1300
+    },
+    {
+      "id": "super",
+      "gloss": "SUPER",
+      "english": [
+        "super",
+        "Super / Great"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Super / Great",
+      "durationMs": 1300
+    },
+    {
+      "id": "prepared",
+      "gloss": "PREPARED",
+      "english": [
+        "prepared",
+        "Prepared / Ready"
+      ],
+      "category": "vocabulary",
+      "pos": "SIGN",
+      "twoHanded": false,
+      "description": "Prepared / Ready",
+      "durationMs": 1300
+    }
+  ]
+}

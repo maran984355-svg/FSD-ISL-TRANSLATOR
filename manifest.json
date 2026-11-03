@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "SignX — Indian Sign Language (ISL) Assistant",
+  "version": "1.0.0",
+  "description": "Two-way Indian Sign Language (ISL) accessibility: Web & YouTube to ISL 3D Avatar, and real-time Camera Sign-to-Text.",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open SignX"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://*.youtube.com/*"
+  ]
+}

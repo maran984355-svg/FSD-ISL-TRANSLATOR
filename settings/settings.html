@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SignX Settings & Preferences</title>
+  <link rel="stylesheet" href="settings.css">
+</head>
+<body class="theme-dark">
+  <div class="settings-page-container">
+    <header class="settings-page-header">
+      <div class="header-brand">
+        <svg width="28" height="28" viewBox="0 0 128 128" fill="none">
+          <rect width="128" height="128" rx="28" fill="url(#settings-logo-grad)"/>
+          <path d="M40 36L88 92M88 36L40 92" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+          <circle cx="64" cy="64" r="8" fill="#10b981"/>
+          <defs>
+            <linearGradient id="settings-logo-grad" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+              <stop stop-color="#06b6d4"/>
+              <stop offset="1" stop-color="#6366f1"/>
+            </linearGradient>
+          </defs>
+        </svg>
+        <div>
+          <h1>SignX Settings</h1>
+          <p>Indian Sign Language (ISL) Two-Way Assistant Configuration</p>
+        </div>
+      </div>
+    </header>
+
+    <main class="settings-grid">
+      
+      <!-- Section 1: Ollama Cloud & Model Settings -->
+      <section class="settings-card">
+        <div class="card-header">
+          <h2>Ollama Cloud & LLM Integration</h2>
+          <span class="badge">Optional / Extensible</span>
+        </div>
+        <p class="card-desc">SignX uses an offline ISL grammar rule engine by default. You can connect Ollama Cloud or a local LLM for advanced conversational ISL gloss synthesis.</p>
+
+        <div class="form-group">
+          <label for="page-ollama-endpoint">API Endpoint URL</label>
+          <input type="text" id="page-ollama-endpoint" placeholder="https://api.ollama.ai/v1">
+        </div>
+
+        <div class="form-group">
+          <label for="page-ollama-model">Model Name</label>
+          <input type="text" id="page-ollama-model" placeholder="llama3.2">
+        </div>
+
+        <div class="form-group">
+          <label for="page-ollama-key">API Key (Secure Local Storage)</label>
+          <div class="input-with-action">
+            <input type="password" id="page-ollama-key" placeholder="Enter your Ollama API key...">
+            <button id="page-toggle-key-visibility" type="button" class="btn-subtle">Show</button>
+          </div>
+          <small class="helper-text">Your key is stored securely in your browser's local sandbox and never sent to any external server other than the endpoint specified above.</small>
+        </div>
+      </section>
+
+      <!-- Section 2: ISL Dialect & Grammar -->
+      <section class="settings-card">
+        <div class="card-header">
+          <h2>ISL Linguistics & Dialects</h2>
+        </div>
+        
+        <div class="form-group">
+          <label for="page-isl-dialect">Regional Dialect</label>
+          <select id="page-isl-dialect">
+            <option value="standard-isl">Standard ISL (ISLRTC Aligned)</option>
+            <option value="north-isl">Northern Region ISL</option>
+            <option value="south-isl">Southern Region ISL</option>
+          </select>
+        </div>
+
+        <div class="form-check">
+          <input type="checkbox" id="page-sov-convert" checked>
+          <label for="page-sov-convert">Automatic English-to-ISL Subject-Object-Verb (SOV) Syntax Conversion</label>
+        </div>
+
+        <div class="form-check">
+          <input type="checkbox" id="page-auto-copy">
+          <label for="page-auto-copy">Automatically copy recognized signing text to clipboard upon completion</label>
+        </div>
+      </section>
+
+      <!-- Section 3: Avatar & Accessibility -->
+      <section class="settings-card">
+        <div class="card-header">
+          <h2>Avatar & Visual Accessibility</h2>
+        </div>
+
+        <div class="form-group">
+          <label for="page-avatar-style">Avatar Visual Style</label>
+          <select id="page-avatar-style">
+            <option value="default-3d">Stylized 3D Character (High Contrast)</option>
+            <option value="skeletal">Skeletal Joint Wireframe</option>
+          </select>
+        </div>
+
+        <div class="form-check">
+          <input type="checkbox" id="page-high-contrast">
+          <label for="page-high-contrast">High Contrast Mode (WCAG AAA Compliant)</label>
+        </div>
+      </section>
+
+    </main>
+
+    <footer class="settings-footer">
+      <button id="page-save-settings-btn" class="btn-save">Save Changes</button>
+      <button id="page-reset-settings-btn" class="btn-reset">Restore Defaults</button>
+      <span id="save-status-msg" class="status-msg"></span>
+    </footer>
+  </div>
+
+  <script type="module" src="settings.js"></script>
+</body>
+</html>

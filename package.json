@@ -1,0 +1,22 @@
+{
+  "name": "signx",
+  "version": "1.0.0",
+  "description": "SignX — Indian Sign Language (ISL) Assistant & 3D Companion",
+  "type": "module",
+  "scripts": {
+    "start": "node start-all.mjs",
+    "preview": "node preview-server.mjs",
+    "backend": "node backend/server.js",
+    "dev": "node start-all.mjs",
+    "test": "node scripts/accuracy-test-suite.mjs"
+  },
+  "keywords": [
+    "isl",
+    "sign-language",
+    "accessibility",
+    "threejs",
+    "3d-avatar"
+  ],
+  "author": "SignX Team",
+  "license": "MIT"
+}

@@ -1,0 +1,43 @@
+{
+  "ollama": {
+    "endpoint": "https://api.ollama.ai/v1",
+    "model": "llama3.2",
+    "apiKey": "",
+    "customPrompt": "Convert the following English text to Indian Sign Language (ISL) gloss notation following Subject-Object-Verb (SOV) order. Output ONLY the uppercase space-separated ISL gloss sequence.",
+    "timeoutMs": 15000
+  },
+  "avatar": {
+    "style": "default-3d",
+    "speed": 1.0,
+    "autoPlay": true,
+    "showGlossSubtitles": true,
+    "floatingOverlay": {
+      "enabled": false,
+      "position": "bottom-right",
+      "size": "medium",
+      "opacity": 0.95,
+      "autoTranslateCaptions": true
+    }
+  },
+  "recognition": {
+    "cameraEnabled": false,
+    "selectedDeviceId": "default",
+    "mirrorVideo": true,
+    "showLandmarks": true,
+    "confidenceThreshold": 0.70,
+    "fps": 30,
+    "dtwTolerance": 0.82,
+    "autoCopyOnComplete": false
+  },
+  "isl": {
+    "dialect": "standard-isl",
+    "sovGrammarConversion": true,
+    "dictionaryCacheEnabled": true
+  },
+  "ui": {
+    "theme": "dark",
+    "highContrast": false,
+    "fontSize": "14px",
+    "soundFeedback": false
+  }
+}
